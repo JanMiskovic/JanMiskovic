@@ -8,7 +8,7 @@ I started freelancing as a web developer in 2020 and my interest in this field h
 Currently my stack consists of `Next.js`, `Tailwind CSS` and `Framer Motion`,\
 mostly inspired by great devs like [Sam Selikoff](https://www.youtube.com/c/SamSelikoff) and [Theo Browne](https://www.youtube.com/c/TheoBrowne1017).
 
-[**My portfolio website**](https://janmiskovic.com), showcasing my commercial projects, resume, and hobbies (work in progress) 🔧
+[**My portfolio website**](https://janmiskovic.com), showcasing my projects, resume, and hobbies (work in progress) 🔧
 
 ### Technologies and software 💻
 #### That I use regularly:
